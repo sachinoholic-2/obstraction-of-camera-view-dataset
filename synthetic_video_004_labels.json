@@ -1,0 +1,23 @@
+{
+    "video": "synthetic_video_004.mp4",
+    "frame_count": 5150,
+    "fps": 25,
+    "obstructions": [
+        {
+            "start": 1049,
+            "end": 1202
+        },
+        {
+            "start": 3935,
+            "end": 4092
+        },
+        {
+            "start": 290,
+            "end": 424
+        },
+        {
+            "start": 3582,
+            "end": 3742
+        }
+    ]
+}
